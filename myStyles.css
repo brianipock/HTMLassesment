@@ -1,0 +1,16 @@
+body {background-image:url('corgi butt shake.gif'); background-repeat:repeat;}
+body{
+  color:white;
+}
+.customClass{
+  font-size: 40px;
+}
+#firsth1{
+  color:#29c2d4;
+}
+#firstList{
+  font-weight: bold;
+}
+#secondList li:first-child{
+  color:blue;
+}

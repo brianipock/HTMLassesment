@@ -1,0 +1,27 @@
+.subjectHeader{
+  color:blanchedalmond;font-size: 1.5em;
+}
+table, th, td {
+   border: 1px solid black;
+   text-align: center;
+}
+thead{
+  background-color: lemonchiffon;
+  font-weight:bolder;
+}
+li{
+    list-style-type: square;
+}
+a:hover{
+  color:lavenderblush;
+  text-decoration:none;
+}
+blockquote{
+  background-color: saddlebrown;
+  color: gold;
+}
+#teamroster>:first-child{background-image:url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg")
+}
+#checkbox-grid>li{
+  list-style-type: none;
+}
